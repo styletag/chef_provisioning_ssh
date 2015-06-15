@@ -1,0 +1,6 @@
+.swp
+.vagrant
+cookbooks
+berks-cookbooks
+nodes
+clients
