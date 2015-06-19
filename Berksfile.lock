@@ -1,6 +1,6 @@
 DEPENDENCIES
   starter
-    path: ../multi/chef-repo/cookbooks/starter
+    path: ../../code/cookbooks/starter
 
 GRAPH
   starter (1.0.0)
